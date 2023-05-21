@@ -1,5 +1,5 @@
 # Ecommerce Project
-The Facebook Project is a full-stack social media application built with Node.js, Express.js, React, and MongoDB. It aims to provide a comprehensive platform for users to connect, share content, and communicate with friends and family.
+The Facebook Project is a BackEnd social media application built with Node.js, Express.js, and MongoDB. It aims to provide a comprehensive platform for users to connect, share content, and communicate with friends and family.
 
 ## Features
 
